@@ -21,6 +21,12 @@ Copy-Item $source "c:\Users\alvar\OneDrive\Desktop\WM Som e Luz\04-Artes\logo-wm
 Copy-Item $source "c:\Users\alvar\OneDrive\Desktop\WM Som e Luz\web\public\logo.png"
 ```
 
+## Requisito para uso no site
+
+- O arquivo usado em `web/public/logo.png` deve ser exportado em **PNG com fundo transparente**.
+- Evitar versões com fundo branco para não aparecer um bloco claro no header/footer escuros.
+- Se precisar, manter temporariamente um fundo escuro no container do logo até a versão transparente ficar pronta.
+
 ## Descrição do logo
 
 - **Ondas sonoras**: Azul → roxo → verde-amarelado (representam frequências)

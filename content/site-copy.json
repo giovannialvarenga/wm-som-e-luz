@@ -7,8 +7,8 @@
     "secondary": "Todo o estado de São Paulo"
   },
   "hero": {
-    "title": "Som e iluminação profissional + festa 100% em videoclipes",
-    "subtitle": "VDJ ao vivo sincroniza música e vídeo em tempo real. Você escolhe as músicas, a gente cria o espetáculo. Do casamento à formatura, do aniversário ao evento corporativo — atendemos Sorocaba e todo o estado de SP.",
+    "title": "Sua festa no telão: música e videoclipes que mantêm a pista cheia",
+    "subtitle": "Do casamento à formatura: você escolhe as músicas, nós criamos o espetáculo. Sorocaba e todo o estado de SP.",
     "cta_primary": "Pedir orçamento no WhatsApp",
     "cta_secondary": "Ligar agora: (15) 99116-3093"
   },
@@ -18,23 +18,23 @@
     "items": [
       {
         "icon": "🎬",
-        "title": "Festa 100% em videoclipes",
-        "text": "Todas as músicas passam no telão — remixadas e sincronizadas. Do anos 70-90 até hits atuais. Experiência audiovisual inesquecível."
+        "title": "Pista cheia do início ao fim",
+        "text": "Todas as músicas passam no telão — remixadas e sincronizadas. Dos anos 70 aos 90 até hits atuais. Experiência audiovisual que prende."
       },
       {
         "icon": "🎵",
-        "title": "Personalização total",
+        "title": "A playlist é sua (ou dos convidados)",
         "text": "Você escolhe 100% das músicas ou permite que os convidados sugiram. Curadoria sob medida para cada festa."
       },
       {
         "icon": "🔊",
-        "title": "Qualidade técnica altíssima",
-        "text": "Equipamentos profissionais de última geração: som cristalino, iluminação cênica de nível superior, operação especializada."
+        "title": "Som e luz de nível profissional",
+        "text": "Equipamentos de ponta e operação especializada. Você não se preocupa com falha — a gente cuida de tudo."
       },
       {
         "icon": "🎉",
-        "title": "VDJ: espetáculo visual",
-        "text": "VDJ (Video DJ) mixa som + vídeo em tempo real, criando transições perfeitas e mantendo a pista cheia o tempo todo."
+        "title": "Um show, não só música de fundo",
+        "text": "VDJ (Video DJ) mixa som + vídeo ao vivo; transições perfeitas e festa com cara de evento."
       }
     ]
   },
@@ -45,35 +45,35 @@
         "id": "casamentos",
         "icon": "💍",
         "title": "Casamentos",
-        "description": "Festa diferenciada com videoclipes nostálgicos, cerimonial completo e qualidade técnica impecável. Pacote Premium recomendado.",
+        "description": "O dia em que todo mundo dança: videoclipes nostálgicos e qualidade técnica para cerimonial e festa. Pacote Premium recomendado.",
         "pacote_recomendado": "Premium"
       },
       {
         "id": "formaturas",
         "icon": "🎓",
         "title": "Formaturas",
-        "description": "Experiência audiovisual completa: clipes nostálgicos dos anos 90-2000, VDJ ao vivo, pista cheia o tempo todo.",
+        "description": "A festa que a turma não esquece: anos 90 e 2000 no telão, VDJ ao vivo, pista cheia.",
         "pacote_recomendado": "Premium"
       },
       {
         "id": "aniversarios",
         "icon": "🎂",
         "title": "Outras Festas",
-        "description": "Aniversários (15 anos, 50 anos, bodas), chá de bebê, confraternizações. Música para todas as idades, ambiente festivo.",
+        "description": "Música para todas as idades, do aniversário ao chá de bebê — ambiente festivo e personalizado.",
         "pacote_recomendado": "Básico ou Intermediário"
       },
       {
         "id": "corporativo",
         "icon": "💼",
         "title": "Eventos Corporativos",
-        "description": "Som técnico para palestras, iluminação arquitetural, telão para apresentações. Ou festa completa para confraternizações.",
+        "description": "Do palco da palestra à festa de confraternização: som e luz profissionais para cada momento.",
         "pacote_recomendado": "Sob consulta"
       }
     ]
   },
   "pacotes": {
     "title": "Escolha o pacote ideal",
-    "lead": "Preços competitivos com diferencial único no mercado.",
+    "lead": "Do básico ao premium: equipamento profissional e a experiência de festa em videoclipes em todos os pacotes. Você escolhe o tamanho; nós cuidamos do espetáculo.",
     "items": [
       {
         "id": "basico",
@@ -134,12 +134,12 @@
   },
   "como_funciona": {
     "title": "Como funciona",
-    "lead": "Do orçamento ao show: simples e profissional.",
+    "lead": "Sem surpresas: do primeiro contato ao dia do evento, você sabe exatamente o que esperar.",
     "steps": [
       {
         "number": 1,
         "title": "Contato e orçamento",
-        "text": "Entre em contato pelo WhatsApp ou telefone. Conte sobre o seu evento: tipo, data, local e número de pessoas. Apresentamos o pacote ideal."
+        "text": "Entre em contato pelo WhatsApp ou telefone. Conte sobre o seu evento: tipo, data, local e número de pessoas. Você conta o evento e recebe o pacote ideal."
       },
       {
         "number": 2,
@@ -149,7 +149,7 @@
       {
         "number": 3,
         "title": "Show!",
-        "text": "No dia do evento, nossa equipe chega com antecedência, monta som + iluminação + telão, e o VDJ opera ao vivo sincronizando música e vídeo. Pista cheia garantida!"
+        "text": "No dia do evento, nossa equipe chega com antecedência, monta som + iluminação + telão, e o VDJ opera ao vivo. Nossa equipe monta tudo; você só curte. Pista cheia garantida!"
       }
     ]
   },
@@ -201,7 +201,7 @@
     "items": [
       {
         "question": "Como funciona a festa 100% em videoclipes?",
-        "answer": "Todas as músicas escolhidas por você passam no telão — com clipes originais ou remixados. Nosso VDJ sincroniza música e vídeo em tempo real, criando transições perfeitas. Do anos 70-90 até hits atuais."
+        "answer": "Todas as músicas escolhidas por você passam no telão — com clipes originais ou remixados. Nosso VDJ sincroniza música e vídeo em tempo real, criando transições perfeitas. Dos anos 70 aos 90 até hits atuais."
       },
       {
         "question": "Posso escolher as músicas?",
@@ -256,8 +256,8 @@
   },
   "cta_final": {
     "title": "Pronto para transformar seu evento?",
-    "subtitle": "Entre em contato e receba um orçamento personalizado. Atendimento rápido pelo WhatsApp ou telefone.",
-    "cta_primary": "Chamar no WhatsApp",
+    "subtitle": "Fale conosco por WhatsApp ou telefone e receba um orçamento personalizado em pouco tempo.",
+    "cta_primary": "Quero um orçamento sem compromisso",
     "cta_secondary": "Ligar: (15) 99116-3093"
   },
   "links": {
@@ -270,7 +270,8 @@
     "endereco": "Av. Ipanema, 5867 - Jardim Novo Horizonte, Sorocaba - SP, 18071-801"
   },
   "meta": {
-    "title": "WM Som e Luz | Som e iluminação profissional + festa 100% em videoclipes | Sorocaba/SP",
-    "description": "Som e iluminação profissional com festa 100% em videoclipes. VDJ ao vivo, qualidade técnica altíssima, personalização total. Casamentos, formaturas, aniversários e eventos corporativos. Atendemos Sorocaba e todo o estado de SP. Orçamento: (15) 99116-3093"
+    "title": "WM Som e Luz | Festa com videoclipes e som profissional | Sorocaba e SP",
+    "description": "Pista cheia e festa inesquecível: som e iluminação com VDJ e videoclipes ao vivo. Casamentos, formaturas, aniversários e corporativo. Sorocaba e todo o estado de SP. Orçamento: (15) 99116-3093",
+    "keywords": "som e iluminação sorocaba, DJ sorocaba, VDJ, videoclipes, som casamento, iluminação evento, telão LED, festa anos 80 90, festa com videoclipes, VDJ evento, som festa Sorocaba, pista de dança evento"
   }
 }

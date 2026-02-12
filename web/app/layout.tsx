@@ -1,14 +1,25 @@
 import type { Metadata } from "next";
 import "./globals.css";
+import Header from "./components/Header";
+import Footer from "./components/Footer";
+import JsonLd from "./components/JsonLd";
+import siteCopyData from "../content/site-copy.json";
+
+const siteCopy = siteCopyData as { meta: { title: string; description: string; keywords?: string } };
+const { meta } = siteCopy;
 
 export const metadata: Metadata = {
-  title: "WM Som e Luz | Som e iluminação + festa 100% em videoclipes | Sorocaba/SP",
-  description: "Som e iluminação profissional com festa 100% em videoclipes. VDJ ao vivo, qualidade técnica altíssima, personalização total. Casamentos, formaturas, aniversários e eventos corporativos. Atendemos Sorocaba e todo o estado de SP. Orçamento: (15) 99116-3093",
-  keywords: "som e iluminação sorocaba, DJ sorocaba, VDJ, videoclipes, som casamento, iluminação evento, telão LED, festa anos 80 90",
+  metadataBase: new URL("https://wmsomeluz.com.br"),
+  title: meta.title,
+  description: meta.description,
+  keywords: meta.keywords ?? "som e iluminação sorocaba, DJ sorocaba, VDJ, videoclipes, som casamento, iluminação evento, telão LED, festa anos 80 90",
   authors: [{ name: "WM Som e Luz" }],
+  alternates: {
+    canonical: "/",
+  },
   openGraph: {
-    title: "WM Som e Luz | Festa 100% em videoclipes",
-    description: "Som e iluminação profissional com VDJ ao vivo. Experiência audiovisual completa para seu evento.",
+    title: meta.title,
+    description: meta.description,
     url: "https://wmsomeluz.com.br",
     siteName: "WM Som e Luz",
     locale: "pt_BR",
@@ -24,7 +35,10 @@ export default function RootLayout({
   return (
     <html lang="pt-BR">
       <body className="antialiased">
+        <JsonLd />
+        <Header />
         {children}
+        <Footer />
       </body>
     </html>
   );
