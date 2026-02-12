@@ -1,0 +1,48 @@
+# Dependências Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Next.js
+.next/
+out/
+build/
+dist/
+
+# Vercel
+.vercel
+
+# Environment variables
+.env
+.env.local
+.env*.local
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# TypeScript
+*.tsbuildinfo
+next-env.d.ts
+
+# Testes
+coverage/
+.nyc_output/
+
+# Temporários
+*.log
+*.tmp
+.cache/
+
+# Arquivos pessoais (não commitar imagens grandes originais)
+# 04-Artes/*.psd
+# 04-Artes/*.ai

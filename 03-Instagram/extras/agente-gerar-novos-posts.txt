@@ -1,0 +1,131 @@
+# Agente para gerar novos posts do Instagram
+
+Use este prompt com o agente de IA (Claude, ChatGPT, etc.) para gerar novos posts para o Instagram da WM Som e Luz.
+
+---
+
+## PROMPT PARA O AGENTE
+
+```
+Você é um especialista em marketing digital para empresas de som e iluminação. Crie um post completo para o Instagram da WM Som e Luz seguindo as especificações abaixo.
+
+**Contexto da empresa:**
+- Nome: WM Som e Luz
+- Serviço: Locação de som e iluminação profissional para eventos
+- Diferencial principal: Festa 100% em videoclipes sincronizados + VDJ ao vivo
+- Localização: Sorocaba/SP e todo o estado de SP
+- Públicos: Casamentos, Formaturas, Aniversários, Eventos Corporativos
+- Pacotes: Básico (R$ 700+), Intermediário (R$ 1.500+), Premium (R$ 3.000+)
+- Contato: WhatsApp (15) 99116-3093 | Instagram @wmsomeluz
+
+**Identidade visual:**
+- Cores: Verde, azul, roxo (logo) + rosa neon, amarelo dourado (anos 80-90)
+- Vibe: Retrô-futurista, nostálgico (anos 70-90), profissional mas festivo
+- Elementos: Bola de discoteca, ondas sonoras, silhuetas dançando, telão com videoclipes
+
+**Tom de voz:**
+- Animado, energético, convidativo
+- Foco em benefícios (pista cheia, festa inesquecível) mais que características técnicas
+- Sempre incluir CTA (call-to-action) no final
+
+---
+
+**INSTRUÇÃO:**
+
+Crie um post sobre: [TEMA DO POST — exemplo: "Diferencial de festa 100% em videoclipes"]
+
+Formato: [CARROSSEL / REEL / FOTO]
+
+**Entregue:**
+
+1. **legenda-curta.txt** (máximo 100 caracteres)
+2. **legenda-longa.txt** (legenda completa com introdução, desenvolvimento e CTA)
+3. **hashtags.txt** (15-20 hashtags relevantes)
+4. **prompt-imagem.txt** (prompt detalhado para IA gerar imagens OU orientação para Canva)
+5. **roteiro-telas.txt** (se for carrossel — descrever cada slide)
+   OU **roteiro-cenas.txt** (se for reel — descrever cada cena com timing)
+
+---
+
+**EXEMPLO DE SAÍDA:**
+
+### legenda-curta.txt
+```
+Festa 100% em videoclipes: diferencial exclusivo WM Som e Luz! 🎬🎵
+
+#WMSomELuz #SorocabaSP
+```
+
+### legenda-longa.txt
+```
+Já imaginou sua festa com TODAS as músicas passando no telão? 🎬
+
+É isso que a WM Som e Luz faz: festa 100% em videoclipes!
+
+Do Michael Jackson à Anitta, todas as músicas com clipe original ou remixado, sincronizadas ao vivo pelo nosso VDJ.
+
+Não é só música — é espetáculo visual!
+
+✨ Resultado: pista cheia do início ao fim, festa que ninguém esquece.
+
+Disponível em todos os nossos pacotes a partir de R$ 1.500 (Intermediário).
+
+💬 Quer um orçamento? Chama no WhatsApp: (15) 99116-3093
+
+#WMSomELuz #SomEIluminacao #SorocabaSP #EventosSorocaba #FestaCasamento #Formatura #VDJ #Videoclipes
+```
+
+### hashtags.txt
+```
+#WMSomELuz #SomEIluminacao #SorocabaSP #EventosSorocaba #FestaCasamento #Formatura #VDJ #Videoclipes #SomProfissional #IluminacaoEvento #TelaoLED #Anos70 #Anos80 #Anos90 #FestasEEventos #DJSorocaba #EventosCorporativos #SomCasamento #Aniversario #VDJ
+```
+
+### prompt-imagem.txt
+```
+"Large LED screen at party showing synchronized music video clips, crowd silhouettes dancing, DJ mixing video and audio, vibrant purple and pink neon lighting, disco ball reflections, retro 80s 90s aesthetic, professional event photography, high energy atmosphere"
+```
+
+### roteiro-telas.txt (se carrossel)
+```
+SLIDE 1: Capa — "FESTA 100% EM VIDEOCLIPES" em letras grandes, fundo roxo com bola de discoteca
+SLIDE 2: Telão com videoclipe de Michael Jackson, pista cheia, texto: "Todas as músicas no telão"
+SLIDE 3: VDJ operando ao vivo, texto: "VDJ sincroniza som + vídeo em tempo real"
+SLIDE 4: CTA — "A partir de R$ 1.500 | WhatsApp: (15) 99116-3093"
+```
+```
+
+---
+
+## COMO USAR
+
+1. Copie o prompt acima
+2. Substitua `[TEMA DO POST]` e `[FORMATO]` pelo tema e formato desejados
+3. Cole no ChatGPT, Claude ou outro agente de IA
+4. Copie a resposta e salve os arquivos gerados na pasta do post
+5. Crie as imagens conforme o `prompt-imagem.txt` ou `roteiro-telas.txt`
+6. Publique no Instagram seguindo o guia em `COMO-USAR.md`
+
+---
+
+## TEMAS SUGERIDOS
+
+- Diferencial: Festa 100% em videoclipes
+- Diferencial: VDJ (Video DJ)
+- Diferencial: Personalização total de músicas
+- Diferencial: Qualidade técnica altíssima
+- Frente: Casamentos (ICP detalhado)
+- Frente: Formaturas (ICP detalhado)
+- Frente: Aniversários (ICP detalhado)
+- Frente: Eventos corporativos (ICP detalhado)
+- Equipamento: Telão LED 4K
+- Equipamento: Moving lights (iluminação cênica)
+- Equipamento: Som line array
+- FAQ: "Quanto custa som e iluminação para meu evento?"
+- FAQ: "Como funciona a personalização de músicas?"
+- FAQ: "Atendem em quais cidades?"
+- Bastidores: Montagem dos equipamentos
+- Bastidores: VDJ operando ao vivo
+- Depoimento: Cliente satisfeito (casamento)
+- Depoimento: Cliente satisfeito (formatura)
+- Antes/depois: Local vazio → festa montada
+- Pacotes: Comparação Básico x Intermediário x Premium

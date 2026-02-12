@@ -1,0 +1,29 @@
+PROMPT DE IMAGEM — SLIDE 1 (Capa)
+
+"Professional event lighting setup with disco ball and sound waves, vibrant green and blue gradient background, modern minimalist design, text overlay 'HOW IT WORKS?', retro 70s 80s 90s disco aesthetic, neon accents, high quality render"
+
+---
+
+PROMPT DE IMAGEM — SLIDE 2 (Contato)
+
+"Smartphone with WhatsApp icon, dark blue background with green sound wave patterns, professional event tech aesthetic, modern design, icon-based layout, clean and minimalist"
+
+---
+
+PROMPT DE IMAGEM — SLIDE 3 (Personalização)
+
+"Music playlist on screen with colorful light beams, green and purple gradient background, vinyl records and musical notes floating, retro disco aesthetic, professional event design"
+
+---
+
+PROMPT DE IMAGEM — SLIDE 4 (Show)
+
+"DJ mixing video clips on large LED screen at party, purple background with neon pink and yellow accents, disco ball reflections, silhouettes of people dancing, dynamic lighting, professional event photography style, retro 80s 90s music video aesthetic"
+
+---
+
+FERRAMENTA RECOMENDADA:
+- Canva (templates prontos + customização)
+- Figma (design do zero)
+- Adobe Express (templates + IA)
+- Midjourney ou DALL-E (geração de imagens base, depois adicionar texto no Canva)
